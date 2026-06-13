@@ -2,7 +2,7 @@
 
 # Shoaib Mohammed
 
-**Full-Stack Developer** — PERN · MERN · Next.js
+**Full-Stack Developer**
 
 </div>
 
@@ -52,8 +52,6 @@ Building scalable web applications from database to deployment. I specialize in 
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@shoaibmohammed-me)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/gfx-k-zone)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmohammed-me/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.shoaibmohammed@gmail.com)
 
