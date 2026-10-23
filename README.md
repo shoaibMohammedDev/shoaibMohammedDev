@@ -15,7 +15,7 @@ I don't specialize in frameworks; I specialize in building solutions. Whether it
 
 ### 🛠️ Core Capabilities & Technical Breadth
 
-- **Languages:** TypeScript, JavaScript, Python, SQL, Go (or your next target language)
+- **Languages:** TypeScript, JavaScript, Python, SQL, Go 
 - **Architecture & Backend:** Distributed Systems, REST, GraphQL, gRPC, Event-Driven Architectures, Microservices
 - **Data Engineering & Storage:** PostgreSQL, Redis, Vector Databases (`pgvector`), Schema Design & Query Optimization
 - **AI & Intelligent Systems:** LLM Pipelines, RAG Architectures, Agentic Workflows, MCP (Model Context Protocol)
