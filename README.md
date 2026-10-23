@@ -1,60 +1,44 @@
-<div align="center">
+# Hi, I'm Shoaib Mohammed 👋
+### Full-Stack Engineer & AI Solutions Builder
 
-# Shoaib Mohammed
-
-**Full-Stack Developer**
-
-</div>
+Building scalable SaaS products, modern web applications, and AI-integrated systems from concept to production. I specialize in the modern TypeScript ecosystem—prioritizing type safety, clean architecture, and cloud-native deployments.
 
 ---
 
-Building scalable web applications from database to deployment. I specialize in the **PERN**, **MERN**, and **Next.js** stacks — delivering production-ready solutions with clean architecture and performant code.
+### 🚀 What I Do
+
+- **Modern Web Applications:** Full-stack architecture using Next.js (App Router), React, TanStack Query, and Tailwind/shadcn.
+- **Robust Backend & APIs:** Production-grade services with NestJS/Node.js, REST, GraphQL, and microservices concepts.
+- **Data & Performance:** High-performance database schemas with PostgreSQL, Prisma ORM, and Redis caching.
+- **AI Integration & RAG:** Augmenting applications with LLMs, OpenAI APIs, LangChain, and vector embeddings (`pgvector`).
+- **DevOps & CI/CD:** Containerized environments using Docker, deployed to AWS/Vercel with automated GitHub Actions pipelines.
 
 ---
 
-**Languages & Frameworks**
+### 🛠️ Tech Stack & Tooling
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**UI & Design**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**DevOps & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, TanStack Query |
+| **Backend** | Node.js, NestJS, Express.js, REST APIs, GraphQL |
+| **Databases & Cache** | PostgreSQL, Prisma ORM, Redis, pgvector |
+| **AI & Automation** | OpenAI APIs, LangChain, Model Context Protocol (MCP), Pinecone |
+| **DevOps & Cloud** | Docker, AWS (EC2, S3, RDS), Vercel, GitHub Actions (CI/CD) |
+| **Testing & Quality** | Jest, Playwright, Cypress |
 
 ---
 
-| **PERN** | PostgreSQL · Express · React · Node |
-|:---:|---|
-| **MERN** | MongoDB · Express · React · Node |
-| **Next.js** | Prisma · API Routes · SSR/SSG · Tailwind |
+### 💼 What I’m Building / Open For
+
+- 🛠️ Scalable B2B/B2C **SaaS platforms** (Auth, Billing/Stripe, Multi-tenancy).
+- 🤖 Custom **AI assistants & RAG pipelines** tailored to business data.
+- ⚡ High-throughput **REST/GraphQL backend architectures**.
+- 🌍 Available for: **Full-time remote roles, contracts, and freelance projects**.
 
 ---
 
-<div align="center">
+### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmohammed-me/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.shoaibmohammed@gmail.com)
-
-📍 Chattogram, Bangladesh
-
-</div>
+- 📍 Chattogram, Bangladesh *(Available for global remote work)*
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- ✉️ [Email Me](mailto:YOUR_EMAIL@example.com)
