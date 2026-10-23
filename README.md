@@ -1,16 +1,17 @@
 ### Shoaib Mohammed
-**Software Engineer** • Chattogram, Bangladesh *(Available Remotely)*
+**Software Engineer** — Chattogram, Bangladesh *(Available Worldwide)*
 
-I design and build production-grade web applications, backend systems, and AI-enabled software. Passionate about software architecture, clean APIs, and building tools that solve real problems.
-
----
-
-#### Core Competencies
-- **Languages & Frameworks:** TypeScript, Python, React, Next.js, Node.js, NestJS
-- **Data & Storage:** PostgreSQL, Redis, Prisma, Vector Search
-- **Infrastructure:** Docker, Linux, CI/CD pipelines, Cloud deployments
+[Portfolio](https://shoaibmohammed.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/shoaibmohammed-me/) &nbsp;|&nbsp; [Email](mailto:contact.shoaibmohammed@gmail.com)
 
 ---
 
-#### Let's Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) • [Email](mailto:YOUR_EMAIL@example.com)
+I engineer resilient web applications, SaaS platforms, and backend systems with a focus on system internals, performance, and application security. Driven by deep curiosity about software architectures, I build production-grade tools and deconstruct complex systems to solve difficult technical challenges.
+
+#### Technical Competencies
+- **Languages:** TypeScript, JavaScript, Python, SQL, C (Foundations)
+- **Web & Backend:** Next.js, React, Node.js, NestJS, REST/GraphQL
+- **Data & Caching:** PostgreSQL, Redis, Prisma ORM
+- **Systems & Infrastructure:** Docker, Linux Environments, Git, AWS
+
+---
+*Open to challenging engineering roles, product development, and security-focused software projects.*
