@@ -14,4 +14,4 @@ I engineer resilient web applications, SaaS platforms, and backend systems with 
 - **Systems & Infrastructure:** Docker, Linux Environments, Git, AWS
 
 ---
-*Open to challenging engineering roles, product development, and security-focused software projects.*
+
