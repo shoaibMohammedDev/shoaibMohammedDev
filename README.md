@@ -26,4 +26,4 @@ I engineer resilient web applications, SaaS platforms, and backend systems with 
 
 ---
 
-*Open to challenging engineering roles, product development, and security-focused software projects.*
+
