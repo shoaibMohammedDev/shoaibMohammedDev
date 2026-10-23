@@ -1,44 +1,39 @@
 # Hi, I'm Shoaib Mohammed 👋
-### Full-Stack Engineer & AI Solutions Builder
+### Software Engineer | Systems, Tools & Product Architecture
 
-Building scalable SaaS products, modern web applications, and AI-integrated systems from concept to production. I specialize in the modern TypeScript ecosystem—prioritizing type safety, clean architecture, and cloud-native deployments.
-
----
-
-### 🚀 What I Do
-
-- **Modern Web Applications:** Full-stack architecture using Next.js (App Router), React, TanStack Query, and Tailwind/shadcn.
-- **Robust Backend & APIs:** Production-grade services with NestJS/Node.js, REST, GraphQL, and microservices concepts.
-- **Data & Performance:** High-performance database schemas with PostgreSQL, Prisma ORM, and Redis caching.
-- **AI Integration & RAG:** Augmenting applications with LLMs, OpenAI APIs, LangChain, and vector embeddings (`pgvector`).
-- **DevOps & CI/CD:** Containerized environments using Docker, deployed to AWS/Vercel with automated GitHub Actions pipelines.
+I don't specialize in frameworks; I specialize in building solutions. Whether it's high-throughput backends, distributed microservices, CLI developer tools, or AI-native SaaS products, I choose the right tool for the job to build reliable, high-performance software.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🧠 Engineering Principles
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, TanStack Query |
-| **Backend** | Node.js, NestJS, Express.js, REST APIs, GraphQL |
-| **Databases & Cache** | PostgreSQL, Prisma ORM, Redis, pgvector |
-| **AI & Automation** | OpenAI APIs, LangChain, Model Context Protocol (MCP), Pinecone |
-| **DevOps & Cloud** | Docker, AWS (EC2, S3, RDS), Vercel, GitHub Actions (CI/CD) |
-| **Testing & Quality** | Jest, Playwright, Cypress |
+- **Tool-Agnostic Mindset:** Languages and frameworks are implementation details. Core computer science, data structures, and system architecture come first.
+- **Production-First:** Code isn't done when it runs on localhost. It's done when it's tested, containerized, monitored, and running reliably in production.
+- **Deep End-to-End Ownership:** From database indexing, caching layers, and API design to UI performance and cloud infrastructure.
 
 ---
 
-### 💼 What I’m Building / Open For
+### 🛠️ Core Capabilities & Technical Breadth
 
-- 🛠️ Scalable B2B/B2C **SaaS platforms** (Auth, Billing/Stripe, Multi-tenancy).
-- 🤖 Custom **AI assistants & RAG pipelines** tailored to business data.
-- ⚡ High-throughput **REST/GraphQL backend architectures**.
-- 🌍 Available for: **Full-time remote roles, contracts, and freelance projects**.
+- **Languages:** TypeScript, JavaScript, Python, SQL, Go (or your next target language)
+- **Architecture & Backend:** Distributed Systems, REST, GraphQL, gRPC, Event-Driven Architectures, Microservices
+- **Data Engineering & Storage:** PostgreSQL, Redis, Vector Databases (`pgvector`), Schema Design & Query Optimization
+- **AI & Intelligent Systems:** LLM Pipelines, RAG Architectures, Agentic Workflows, MCP (Model Context Protocol)
+- **Infrastructure & Systems:** Docker, Linux, CI/CD Pipelines, AWS, Cloudflare, Reverse Proxies (Nginx)
 
 ---
 
-### 📬 Connect With Me
+### 📂 What I Build
 
-- 📍 Chattogram, Bangladesh *(Available for global remote work)*
+- 🛠️ **Developer Tools & CLIs:** Lightweight, fast utilities that improve developer productivity.
+- 🚀 **Full-Scale SaaS Applications:** Production platforms with complex auth, multi-tenancy, and payment rails.
+- 🤖 **AI-Native Engines:** Custom reasoning engines, retrieval systems, and autonomous agent workflows.
+- ⚡ **High-Performance APIs:** Fault-tolerant backend services designed for scale and low latency.
+
+---
+
+### 📬 Connect
+
+- 📍 Chattogram, Bangladesh *(Available for global remote engineering roles)*
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 - ✉️ [Email Me](mailto:YOUR_EMAIL@example.com)
