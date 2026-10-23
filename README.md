@@ -9,21 +9,23 @@
 
 ---
 
-I engineer resilient web applications, SaaS platforms, and backend systems with a focus on system internals, performance, and application security. Driven by deep curiosity about software architectures, I build production-grade tools and deconstruct complex systems to solve difficult technical challenges.
+I build secure, high-performance web applications, scalable SaaS platforms, and robust backend architectures. With a strong foundation in systems engineering and application security, I bridge the gap between clean product interfaces and resilient server-side infrastructure.
 
 ---
 
-#### 🛠️ Technical Competencies
+#### 🛠️ Tech Stack & Systems
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,py,c,bash" alt="Languages" /><br/>
-  <!-- Web & Backend -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind" alt="Frameworks" /><br/>
-  <!-- Databases & Systems -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,docker,linux,aws,git" alt="Infrastructure" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,py,c,bash" alt="Languages" /></a><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind" alt="Frameworks" /></a><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,prisma,docker,linux,aws,git" alt="Infrastructure" /></a>
 </p>
+
+- **Core Languages:** TypeScript, Python, SQL, C (Systems Foundations)
+- **Application Engineering:** Next.js, React, Node.js, NestJS, REST & GraphQL APIs
+- **Database & State:** PostgreSQL (Relational Architecture), Redis (Caching & Queues), Prisma ORM
+- **Infrastructure & Security:** Docker, Linux Environments, CI/CD, AWS Cloud, AppSec Fundamentals
 
 ---
 
-
+*Open to engineering roles, enterprise SaaS contracts, and systems-focused development.*
